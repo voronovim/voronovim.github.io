@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Ignatiy Voronov</title>
+    <link>https://voronovim.github.io/posts/</link>
+    <description>Recent content in Posts on Ignatiy Voronov</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 23 Mar 2019 01:35:44 +0300</lastBuildDate>
+    
+	<atom:link href="https://voronovim.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Greeting</title>
+      <link>https://voronovim.github.io/posts/greeting/</link>
+      <pubDate>Sat, 23 Mar 2019 01:35:44 +0300</pubDate>
+      
+      <guid>https://voronovim.github.io/posts/greeting/</guid>
+      <description>Hi everyone!
+This is my personal page. Here I will post some interesting posts about coding. Also, here you can find my resume and my pet projects!
+Let&#39;s start!</description>
+    </item>
+    
+  </channel>
+</rss>
